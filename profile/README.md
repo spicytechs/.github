@@ -1,1 +1,1 @@
-![SegmentLocal](cubes.gif "segment")
+![SegmentLocal](.github/profile/cubes.gif "segment")
